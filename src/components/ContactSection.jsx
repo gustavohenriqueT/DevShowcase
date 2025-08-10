@@ -32,7 +32,7 @@ export const ContactSection = () => {
     <section id="contact" className="py-24 px-4 relative bg-secondary/30">
       <div className="container mx-auto max-w-5xl">
         <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
-         Entrar em<span className="text-primary"> contato</span>
+          Entrar em<span className="text-primary"> contato</span>
         </h2>
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
@@ -83,7 +83,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium"> Localização</h4>
                   <a className="text-muted-foreground hover:text-primary transition-colors">
-                    São José da Boa Vista, SP, Brasil
+                    São João da Boa Vista, SP, Brasil
                   </a>
                 </div>
               </div>
