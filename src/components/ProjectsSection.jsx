@@ -6,7 +6,7 @@ const projects = [
     title: "OdsEcoBrasil",
     description:
       "Plataforma inovadora sobre Objetivos de Desenvolvimento Sustentável, utiliza Node.js, React e SQL. Foco em transparência, oferece contas personalizadas para acesso fácil a dados claros sobre ODS no Brasil.",
-    image: "src/projects/OdsEco.jpg",
+    image: "/projects/OdsEco.jpg",
     tags: ["Node.js", "JavaScript", "React", "Aws"],
     demoUrl: "",
     githubUrl: "https://github.com/gustavohenriqueT/ods-app.git",
@@ -16,7 +16,7 @@ const projects = [
     title: "Dashboard de Análise de Dados Acadêmicos",
     description:
       "Projeto em Python e R para coleta, tratamento, análise e visualização de dados acadêmicos com foco em métricas de desempenho.",
-    image: "src/projects/Dashboard.png",
+    image: "/projects/Dashboard.png",
     tags: ["Python", "R", "PostgreSQL", "Pandas", "Matplotlib", "Docker", "Jenkins"],
     githubUrl: "https://github.com/gustavohenriqueT/AutomatedDataAnalysis.git",
   },
@@ -25,7 +25,7 @@ const projects = [
     title: "",
     description:
       "Desenvolvi um sistema para a Unimed adotando a abordagem de código aberto, garantindo transparência e facilidade de manutenção. O front-end foi construído para proporcionar uma interface limpa e responsiva. No back-end, para manipulação e análise de dados, assegurando eficiência no processamento das informações.",
-    image: "src/projects/Unimed.png",
+    image: "/projects/Unimed.png",
     tags: ["Python", "Flask", "Html", "Css", "Oracle"],
     githubUrl: "https://github.com/gustavohenriqueT/API-Atualizada.git",
   },
